@@ -1,5 +1,5 @@
-# EnderQIU's release page
-[Home](https://www.enderqiu.cn/)/[Repositories](https://github.com/EnderQIU?tab=repositories)
+# Release page
+[Releases](https://enderqiu.github.io/) / [Repositories](https://github.com/EnderQIU?tab=repositories) / [Collection](https://enderqiu.github.io/collection)
 
 ## My Tissue
 > Online Objects Integration (OOI) system based on flask & requests with Redis cache.
