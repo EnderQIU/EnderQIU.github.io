@@ -6,7 +6,7 @@
 
 
 ooi3-remastered 的手机客户端，24x7不间断达到最高效率。
-- GitHub: https://github.com/EnderQIU/mytissue
+- GitHub: <https://github.com/EnderQIU/mytissue>
 - version: 1.1 build 15
 - Date: 2018-12-21
 
@@ -15,7 +15,7 @@ ooi3-remastered 的手机客户端，24x7不间断达到最高效率。
 
 
 一个登录器，方便境外的朋友肝船。
-- GitHub: https://github.com/EnderQIU/ooi3-remastered
+- GitHub: <https://github.com/EnderQIU/ooi3-remastered>
 - version: NOT SPECIFIED
 - Date: 2018-12-21
 
@@ -24,7 +24,7 @@ ooi3-remastered 的手机客户端，24x7不间断达到最高效率。
 
 
 因为字典是下载到本地的，第一次加载时间有些长，需要耐心等待一会儿。
-- GitHub: https://github.com/EnderQIU/notwp
+- GitHub: <https://github.com/EnderQIU/notwp>
 - version: 1.0
 - Date: 2018-12-21
 
