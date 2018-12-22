@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# EnderQIU's release page
+[Home](https://www.enderqiu.cn/)/[Repositories](https://github.com/EnderQIU?tab=repositories)
 
-You can use the [editor on GitHub](https://github.com/EnderQIU/enderqiu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## My Tissue
+> Online Objects Integration (OOI) system based on flask & requests with Redis cache.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+ooi3-remastered 的手机客户端，24x7不间断达到最高效率。
+- GitHub: https://github.com/EnderQIU/mytissue
+- version: 1.1 build 15
+- Date: 2018-12-21
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## OO3 Remastered
+> Online Objects Integration (OOI) system based on flask & requests with Redis cache.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+一个登录器，方便境外的朋友肝船。
+- GitHub: https://github.com/EnderQIU/ooi3-remastered
+- version: NOT SPECIFIED
+- Date: 2018-12-21
 
-- Bulleted
-- List
+## notwp
+> Names of The World People 世界人名中文翻译速查。
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+因为字典是下载到本地的，第一次加载时间有些长，需要耐心等待一会儿。
+- GitHub: https://github.com/EnderQIU/notwp
+- version: 1.0
+- Date: 2018-12-21
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EnderQIU/enderqiu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- End of Content -->
+_Copyright 2018 EnderQIU_
