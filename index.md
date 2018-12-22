@@ -5,7 +5,7 @@
 > Online Objects Integration (OOI) system based on flask & requests with Redis cache.
 
 
-ooi3-remastered 的手机客户端，24x7不间断达到最高效率。
+ooi3-remastered 的手机客户端，带推送通知，24x7不间断达到最高效率。
 - GitHub: <https://github.com/EnderQIU/mytissue>
 - version: 1.1 build 15
 - Date: 2018-12-21
