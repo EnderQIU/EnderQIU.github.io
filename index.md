@@ -1,6 +1,28 @@
 # Release page
 [Releases](https://enderqiu.github.io/) / [Repositories](https://github.com/EnderQIU?tab=repositories) / [Collection](https://enderqiu.github.io/collection)
 
+## vslc
+> A Very Simple Language Compiler.
+
+用 C 实现了 vslcpy 中的词法和语法分析，感谢合作的伙伴们：
+[ahaliu1](https://github.com/ahaliu1)
+[qwslmq](https://github.com/qwslmq)
+[Lewin6](https://github.com/Lewin6)
+
+- Github: <https://github.com/EnderQIU/vslc>
+- version: 1.0
+- Date: 2018-12-21
+
+## vslcpy
+> A Very Simple Language Compiler Implemented by Python.
+
+
+用 Python 写的一个自定义语言的编译器，支持交互式命令行。使用 ply 进行词法和语法分析，llvmlite连接后端进行代码生成，
+相当于 ply 和 llvmlite 混合使用的一个简单示例。
+- Github: <https://github.com/EnderQIU/vslcpy>
+- version: 1.0
+- Date: 2018-12-21
+
 ## My Tissue
 > Online Objects Integration (OOI) system based on flask & requests with Redis cache.
 
