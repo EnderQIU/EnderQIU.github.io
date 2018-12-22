@@ -1,6 +1,15 @@
 # Release page
 [Releases](https://enderqiu.github.io/) / [Repositories](https://github.com/EnderQIU?tab=repositories) / [Collection](https://enderqiu.github.io/collection)
 
+## pnotw
+> Place Names of The World 世界地名翻译速查
+
+
+用与notwp相同的源码导入地名数据。。。
+Github: <https://github.com/EnderQIU/pnotw>
+version: 1.0
+Date: 2018-12-22
+
 ## vslc
 > A Very Simple Language Compiler.
 
