@@ -1,5 +1,6 @@
-# Collections
 [Back](https://enderqiu.github.io/)
+# Collections
+Collection of extraordinary projects & websites.
 
 ## Paratranz
 > A platform translating texts of the games developed by Paradox Interactive
