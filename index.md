@@ -6,9 +6,9 @@
 
 
 用与notwp相同的源码导入地名数据。。。
-Github: <https://github.com/EnderQIU/pnotw>
-version: 1.0
-Date: 2018-12-22
+- Github: <https://github.com/EnderQIU/pnotw>
+- version: 1.0
+- Date: 2018-12-22
 
 ## vslc
 > A Very Simple Language Compiler.
