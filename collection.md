@@ -2,6 +2,21 @@
 # Collections
 Collection of extraordinary projects & websites.
 
+## HTTP Status Codes
+> HTTP status code information
+
+
+HTTP响应码速查
+- Link: <https://www.restapitutorial.com/httpstatuscodes.html>
+- Date: 2018-12-21
+
+## Jiumo Search
+> Document search engine
+
+文档搜索引擎
+- Link: <https://www.jiumodiary.com/>
+- Date: 2018-12-21
+
 ## Paratranz
 > A platform translating texts of the games developed by Paradox Interactive
 
