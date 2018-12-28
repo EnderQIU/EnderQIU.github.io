@@ -1,6 +1,20 @@
 # Release page
 [Releases](https://enderqiu.github.io/) / [Repositories](https://github.com/EnderQIU?tab=repositories) / [Collection](https://enderqiu.github.io/collection)
 
+## cp2translate
+> Translate Japanese text from clipboard.
+
+
+配合 agth 文字提取使用生肉视觉小说。中文翻译欠佳时有英文翻译可以参考。输出一共有四行，依次为：
+1. SOURCE: 用 MeCab 分词的原文。
+2. ROMKAN: 用 romkan 标注的原文。
+3. CHINESE: 中文译文 by 有道。
+4. ENGLISH: 英文译文 by AWS Translate.
+
+- Github: <https://github.com/EnderQIU/cp2translate>
+- version: 1.0
+- Date: 2018-12-29
+
 ## pnotw
 > Place Names of The World 世界地名翻译速查
 
