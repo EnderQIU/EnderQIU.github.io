@@ -1,6 +1,17 @@
 # Release page
 [Releases](https://enderqiu.github.io/) / [Repositories](https://github.com/EnderQIU?tab=repositories) / [Collection](https://enderqiu.github.io/collection)
 
+## c2t-source-code
+> Build Capture2Text with cmake
+
+
+sourceforge上的源码没有给 tesseract 和 lepnotica 的编译方法，qmake挺难添加依赖的，
+所以用 cmake 生成项目，cppan管理依赖了。
+
+- Github: <https://github.com/EnderQIU/c2t-source-code>
+- version: 4.6.0
+- Date: 2019-2-20
+
 ## cp2translate
 > Translate Japanese text from clipboard.
 
