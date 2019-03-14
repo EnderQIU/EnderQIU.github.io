@@ -1,6 +1,15 @@
 # Release page
 [Releases](https://enderqiu.github.io/) / [Repositories](https://github.com/EnderQIU?tab=repositories) / [Collection](https://enderqiu.github.io/collection)
 
+## ppat
+> Translate names in various languages to chinese.
+
+根据词典和译音表规则翻译人名地名为中文（还没完工）
+
+- Github: <https://github.com/EnderQIU/ppat>
+- version: 0.1
+- Date: 2019-3-14
+
 ## c2t-source-code
 > Build Capture2Text with cmake
 
