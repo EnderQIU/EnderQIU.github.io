@@ -2,6 +2,22 @@
 # Collections
 Collection of extraordinary projects & websites.
 
+## Aria2-ng
+> Aria2 remote downloading web UI
+
+
+Aria2 远程下载网页控制台
+- Link: <https://aria2.enderqiu.cn>
+- Date: 2019-04-24
+
+## Private Seafile Server
+> Private cloud storage & sync
+
+
+个人云存储
+- Link: <https://seafile.enderqiu.cn>
+- Date: 2019-04-24
+
 ## HTTP Status Codes
 > HTTP status code information
 
