@@ -1,13 +1,23 @@
 [Back](https://enderqiu.github.io/)
 # Collections
-Collection of extraordinary projects & websites.
+Collection of extraordinary projects & websites. _They are Not my artworks._
+
+## Polr
+> A private short URL service
+
+
+短网址服务
+- Link: <https://aka.enderqiu.cn>
+- Source: <https://polrproject.org>
+- Date: 2019-04-24
 
 ## Aria2-ng
-> Aria2 remote downloading web UI
+> A remote downloading web UI
 
 
 Aria2 远程下载网页控制台
 - Link: <https://aria2.enderqiu.cn>
+- Source: <http://ariang.mayswind.net/zh_Hans/>
 - Date: 2019-04-24
 
 ## Private Seafile Server
@@ -16,6 +26,7 @@ Aria2 远程下载网页控制台
 
 个人云存储
 - Link: <https://seafile.enderqiu.cn>
+- Source: <https://www.seafile.com>
 - Date: 2019-04-24
 
 ## HTTP Status Codes
