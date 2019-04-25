@@ -2,6 +2,12 @@
 # Collections
 Collection of extraordinary projects & websites. _They are Not my artworks._
 
+## Language Code Table
+
+语言代码表速查
+- Link: <http://www.lingoes.cn/zh/translator/langcode.htm>
+- Date: 2019-04-25
+
 ## Polr
 > A private short URL service
 
