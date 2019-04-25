@@ -2,6 +2,18 @@
 # Collections
 Collection of extraordinary projects & websites. _They are Not my artworks._
 
+## GetWindowText
+
+获取 Windows 窗体程序中的文本
+- Link: <https://www.softwareok.com/?Download=GetWindowText>
+- Date: 2019-04-25
+
+## Windows Locale ID Table
+
+Windows 区域ID列表
+- Link: <https://ss64.com/locale.html>
+- Date: 2019-04-25
+
 ## Language Code Table
 
 语言代码表速查
