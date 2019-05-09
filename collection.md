@@ -2,6 +2,12 @@
 # Collections
 Collection of extraordinary projects & websites. _They are Not my artworks._
 
+## CHCP Table
+
+`chcp` 代码页大全
+- Link: <https://docs.microsoft.com/en-us/windows/desktop/intl/code-page-identifiers>
+- Date: 2019-05-09
+
 ## GetWindowText
 
 获取 Windows 窗体程序中的文本
