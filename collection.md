@@ -1,4 +1,4 @@
-[Back](https://enderqiu.github.io/)
+[Back](/)
 # Collections
 Collection of extraordinary projects & websites. _They are Not my artworks._
 
